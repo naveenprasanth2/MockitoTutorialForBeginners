@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a2e56e3-8fcb-4f02-a93e-f6ed12b06bee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/business/ToDoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/data/api/ToDoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/business/TodoBusinessImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/data/api/TodoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/business/ClientBO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/business/ClientBOImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/business/exception/DifferentCurrenciesException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/helper/StringHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/Amount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/AmountImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/ClientImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/ClientType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/Collateral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/CollateralImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/CollateralType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/Currency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/ProductImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/junit/model/ProductType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/powermock/SystemUnderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/powermock/UtilityClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/clarity/business/ClientBOTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/clarity/business/ClientBOTestRefactored.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/business/TodoBusinessImplMockitoInjectMocksTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/business/TodoBusinessImplMockitoRulesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/business/TodoBusinessImplMockitoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/business/TodoBusinessImplStubTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/data/stub/TodoServiceStub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/junit/helper/ArraysCompareTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/junit/helper/ArraysTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/junit/helper/QuickBeforeAfterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/junit/helper/StringHelperParameterizedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/junit/helper/StringHelperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/junit/suite/DummyTestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/mockito/FirstMockitoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/mockito/HamcrestMatcherTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/mockito/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/mockito/SpyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/powermock/PowerMockitoMockingConstructorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/powermock/PowerMockitoMockingStaticMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/powermock/PowerMockitoTestingPrivateMethodTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3a2e56e3-8fcb-4f02-a93e-f6ed12b06bee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
